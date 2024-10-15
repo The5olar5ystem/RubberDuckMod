@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#minecraft:is_nether",
+  "spawners": {
+  "type": "rubber_duck_mod:firequackling",
+  "weight": 1000,
+  "minCount": 1,
+  "maxCount": 4
+}
+}

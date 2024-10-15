@@ -1,0 +1,37 @@
+{
+  "item.rubber_duck_mod.rubberduckegg": "Rubber Duck Egg",
+  "item.rubber_duck_mod.rubberduckfeather": "Rubber Duck Feather",
+
+  "item.rubber_duck_mod.rubberduckhelmet": "Rubber Duck Helmet",
+  "item.rubber_duck_mod.rubberduckchestplate": "Rubber Duck Chestplate",
+  "item.rubber_duck_mod.rubberduckleggings": "Rubber Duck Leggings",
+  "item.rubber_duck_mod.rubberduckboots": "Rubber Duck Boots",
+
+  "block.rubber_duck_mod.rubber_duck_feather_block": "Rubber Duck Feather Block",
+
+  "creativetab.rubber_duck_tab": "Rubber Duck Tab",
+
+  "tooltip.rubber_duck_mod.heavy_duck.tooltip": "Drop a Heavy Duck that Pushes other Mobs away when right clicked",
+
+  "entity.rubber_duck_mod.heavy_duck_entity": "Heavy Duck",
+  "item.rubber_duck_mod.heavy_duck": "Heavy Duck",
+
+  "block.rubber_duck_mod.duckweed_ore": "Duckweed Ore",
+  "item.rubber_duck_mod.duckweed": "Duckweed",
+  "block.rubber_duck_mod.duck_feather_ore": "Duck Feather Ore",
+
+  "entity.rubber_duck_mod.orefinderduck": "Ore Finder Duck",
+  "item.rubber_duck_mod.ore_finder_duck_item": "Ore Finder Duck",
+
+  "item.rubber_duck_mod.duck_locator": "Duck Locator",
+  "item.rubber_duck_mod.thrownblock2": "Dirt Projectile",
+
+  "entity.rubber_duck_mod.quackling": "Quackling",
+  "entity.rubber_duck_mod.firequackling": "Fire Quackling",
+  "entity.rubber_duck_mod.earthquackling": "Earth Quackling",
+  "entity.rubber_duck_mod.windquackling": "Wind Quackling",
+  "entity.rubber_duck_mod.waterquackling": "Water Quackling",
+  "entity.rubber_duck_mod.steamquackling": "Steam Quackling",
+
+  "item.rubber_duck_mod.stormball": "StormBall"
+}

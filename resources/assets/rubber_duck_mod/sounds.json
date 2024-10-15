@@ -1,0 +1,73 @@
+{
+  "rubber_duck_ambient": {
+    "subtitle": "sounds.rubber_duck_mod.rubber_duck_ambient",
+    "sounds": [
+      "rubber_duck_mod:rubber_duck_ambient"
+
+    ]
+  },
+
+  "rubber_duck_ambient2": {
+    "subtitle": "sounds.rubber_duck_mod.rubber_duck_ambient2",
+    "sounds": [
+      "rubber_duck_mod:rubber_duck_ambient2"
+
+    ]
+  },
+
+
+  "rubber_duck_ambient3": {
+    "subtitle": "sounds.rubber_duck_mod.rubber_duck_ambient3",
+    "sounds": [
+      "rubber_duck_mod:rubber_duck_ambient3"
+
+    ]
+  },
+
+  "rubber_duck_ambient4": {
+    "subtitle": "sounds.rubber_duck_mod.rubber_duck_ambient4",
+    "sounds": [
+      "rubber_duck_mod:rubber_duck_ambient4"
+
+    ]
+  },
+
+  "rubber_duck_ambient5": {
+    "subtitle": "sounds.rubber_duck_mod.rubber_duck_ambient5",
+    "sounds": [
+      "rubber_duck_mod:rubber_duck_ambient5"
+    ]
+  },
+
+  "rubber_duck_ambient6": {
+    "subtitle": "sounds.rubber_duck_mod.rubber_duck_ambient6",
+    "sounds": [
+      "rubber_duck_mod:rubber_duck_ambient6"
+
+    ]
+  },
+
+  "rubber_duck_ambient7": {
+    "subtitle": "sounds.rubber_duck_mod.rubber_duck_ambient7",
+    "sounds": [
+      "rubber_duck_mod:rubber_duck_ambient7"
+
+    ]
+  },
+
+  "rubber_duck_ambient8": {
+    "subtitle": "sounds.rubber_duck_mod.rubber_duck_ambient8",
+    "sounds": [
+      "rubber_duck_mod:rubber_duck_ambient8"
+
+    ]
+  },
+
+
+  "RUBBER_DUCK_HURT": {
+    "subtitle": "sounds.rubber_duck_mod.rubber_duck_hurt",
+    "sounds": [
+      "rubber_duck_mod:rubber_duck_hurt"
+    ]
+  }
+}

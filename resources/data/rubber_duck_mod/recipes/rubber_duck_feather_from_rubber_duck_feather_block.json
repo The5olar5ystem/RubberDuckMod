@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "catagory": "misc",
+  "ingredients": [
+    {
+      "item": "rubber_duck_mod:rubber_duck_feather_block"
+    }
+  ],
+  "result": {
+    "item": "rubber_duck_mod:rubber_duck_feather",
+    "count": 9
+  }
+}

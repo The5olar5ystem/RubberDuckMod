@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "rubber_duck_mod:rubber_duck_feather"
+    }
+  },
+  "result": {
+    "item": "rubber_duck_mod:rubber_duck_feather_block"
+  }
+}

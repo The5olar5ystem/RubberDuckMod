@@ -1,0 +1,7 @@
+{
+  "variants": {
+     "": {
+       "model": "rubber_duck_mod:block/duck_feather_ore"
+     }
+  }
+}
